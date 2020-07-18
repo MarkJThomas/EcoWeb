@@ -1,5 +1,5 @@
 baseURL = "http://example.org"
-title = "The Conservation Generalist"
+title = "The Conservation Generalist - 2"
 theme = "hugo-theme-zzo"
 
 defaultContentLanguage = "en"

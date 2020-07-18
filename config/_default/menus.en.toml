@@ -5,15 +5,15 @@
   weight = 1
 
 [[main]]
-  identifier = "archive"
-  name = "Archive"
-  url = "archive"
+  identifier = "research"
+  name = "Research"
+  url = "research"
   weight = 2
 
 [[main]]
-  identifier = "presentation"
-  name = "Pt"
-  url = "presentation"
+  identifier = "publications"
+  name = "Publications"
+  url = "publications"
   weight = 3
 
 [[main]]
