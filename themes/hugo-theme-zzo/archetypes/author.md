@@ -1,4 +1,4 @@
----
+ ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 description:
@@ -10,7 +10,7 @@ categories:
 -
 author:
 authorEmoji:🤖
-authorImage: "/images/whoami/Me.jpg"
+authorImage:"/images/whoami/Me.jpg"
 authorImageUrl: ""
 authorDesc: 
 socialOptions:
