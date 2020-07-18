@@ -1,48 +1,13 @@
- ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-description:
-tags:
--
-series:
--
-categories:
--
-author:
-authorEmoji:🤖
-authorImage:"/images/whoami/Me.jpg"
-authorImageUrl: ""
-authorDesc: 
-socialOptions:
+---
+title:
+...
+author: # author name
+authorEmoji: 🤖 # emoji for subtitle, summary meta data
+authorImage: "" # image path in the static folder
+authorImageUrl: "/images/whoami/mark.jpg" # your image url. We use `authorImageUrl` first. If not set, we use `authorImage`.
+authorDesc: # author description
+socialOptions: # override params.toml file socialOptions
   email: ""
-  phone: ""
   facebook: ""
-  twitter: ""
-  github: ""
-  stack-overflow: ""
-  instagram: ""
-  google-plus: ""
-  youtube: ""
-  medium: ""
-  tumblr: ""
-  linkedin: ""
-  pinterest: ""
-  stack-exchange: ""
-  telegram: ""
-  steam: ""
-  weibo: ""
-  douban: ""
-  csdn: ""
-  gitlab: ""
-  mastodon: ""
-  jianshu: ""
-  zhihu: ""
-  signal: ""
-  whatsapp: ""
-  matrix: ""
-  xmpp: ""
-  dev-to: ""
-  gitea: ""
-  google-scholar: ""
-  twitch: ""
+  ...
 ---
