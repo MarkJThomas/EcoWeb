@@ -10,7 +10,7 @@ categories:
 -
 author: Mark Thomas
 authorEmoji:
-authorImage: "/images/whoami/Me.png"
+authorImage: "/images/whoami/Me.jpg"
 authorImageUrl: ""
 authorDesc: 
 socialOptions:
