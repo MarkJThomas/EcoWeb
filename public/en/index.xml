@@ -14,7 +14,7 @@
     <managingEditor>travelmark85@gmail.com (Mark Thomas)</managingEditor>
     <webMaster>travelmark85@gmail.com (Mark Thomas)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 10:33:41 +0900</lastBuildDate>
     
         <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,40 @@
         
       
 
+      
+      <item>
+        <title>Forests in regeneration</title>
+        <link>/en/posts/syntax-highlight/</link>
+        <pubDate>Sat, 18 Jul 2020 10:33:41 +0900</pubDate>
+        <author>travelmark85@gmail.com (Mark Thomas)</author>
+        <atom:modified>Sat, 18 Jul 2020 10:33:41 +0900</atom:modified>
+        <guid>/en/posts/syntax-highlight/</guid>
+        <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>
+        
+        <dc:creator>Mark Thomas</dc:creator>
+        <media:content url="/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>Conservation, Regenerating forests</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Shortcodes</title>
@@ -153,40 +187,6 @@ java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  c
           
         
         
-        
-      </item>
-      
-      <item>
-        <title>Syntax highlighting</title>
-        <link>/en/posts/syntax-highlight/</link>
-        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>travelmark85@gmail.com (Mark Thomas)</author>
-        <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
-        <guid>/en/posts/syntax-highlight/</guid>
-        <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>
-        
-        <dc:creator>Jeus</dc:creator>
-        <media:content url="/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>hugo</category>
-            
-          
-        
-        
-          
-            
-              <category>hugo</category>
-            
-          
-        
-        
-          
-            
-          
         
       </item>
       

@@ -8,8 +8,8 @@ series:
 -
 categories:
 -
-author: Mark Thomas
-authorEmoji:
+author:
+authorEmoji:🤖
 authorImage: "/images/whoami/Me.jpg"
 authorImageUrl: ""
 authorDesc: 

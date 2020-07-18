@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>hugo on Hugo Zzo Theme</title>
-    <link>/en/tags/hugo/</link>
-    <description>Recent content in hugo on Hugo Zzo Theme</description>
+    <title>Conservation, Regenerating forests on Hugo Zzo Theme</title>
+    <link>/en/categories/conservation-regenerating-forests/</link>
+    <description>Recent content in Conservation, Regenerating forests on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>travelmark85@gmail.com (Mark Thomas)</managingEditor>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 18 Jul 2020 10:33:41 +0900</lastBuildDate>
     
-        <atom:link href="/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/categories/conservation-regenerating-forests/index.xml" rel="self" type="application/rss+xml" />
     
     
     

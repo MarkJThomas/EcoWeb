@@ -1,10 +1,10 @@
 ---
-author: Jeus
-authorEmoji: "\U0001F385"
+author: Mark Thomas
+authorEmoji: ""
 categories:
-- hugo
-date: "2019-12-18T10:33:41+09:00"
-description: Syntax highlighting test
+- Conservation, Regenerating forests
+date: "2020-07-18T10:33:41+09:00"
+description: A post about regenerating forests
 draft: false
 enableToc: true
 enableTocContent: false
@@ -15,7 +15,7 @@ series:
 - null
 tags:
 - hugo
-title: Syntax highlighting
+title: Forests in regeneration
 ---
 
 ## Code Syntax Highlighting
