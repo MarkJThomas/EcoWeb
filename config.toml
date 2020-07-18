@@ -42,7 +42,7 @@ disableLanguages        = [""]
 
   [params.intro]
     header                = "Mark Thomas"
-    paragraph             = "Conservation Blog2"
+    paragraph             = "Conservation Blog212"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
