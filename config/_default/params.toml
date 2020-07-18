@@ -1,4 +1,4 @@
-logoText = "Zzo"
+logoText = "Mark Thomas"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
 custom_css = []
@@ -42,14 +42,14 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "Mark Thomas"
+email = "travelmark85@gmail.com"
+whoami = "Conservation Biologist"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Cusco, Peru"
+organization = "CREES Foundation"
+link = "https://crees-manu.org"
 
 # sidebar
 enableBio = true

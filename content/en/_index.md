@@ -1,92 +1,97 @@
 ---
+homeHeaderType: text
 header:
-- align: center
-  height: 200
-  paddingX: 50
-  paddingY: 0
-  spaceBetweenTitleSubtitle: 16
-  subtitle:
-  - The world’s fastest framework for building websites
-  subtitleColor: null
-  subtitleCursive: true
-  subtitleFontSize: 18
-  title:
-  - HUGO
-  titleColor: null
-  titleFontSize: 44
-  titleShadow: true
-  type: text
-- align: center
-  height: 235
-  imagePosition: center
-  imageRepeat: no-repeat
-  imageSize: cover
-  imageSrc: images/header/background.jpg
-  paddingX: 50
-  paddingY: 0
-  spaceBetweenTitleSubtitle: 20
-  subtitle:
-  - null
-  subtitleColor: null
-  subtitleCursive: false
-  subtitleFontSize: 16
-  title:
-  - null
-  titleColor: null
-  titleFontSize: 44
-  titleShadow: false
-  type: img
-- height: 235
-  options:
-    auto: 5000
-    autoRestart: true
-    continuous: true
-    disableScroll: true
-    draggable: true
-    startSlide: 0
-    stopPropagation: true
-  slide:
-  - align: left
-    imagePosition: center
-    imageRepeat: no-repeat
-    imageSize: cover
-    imageSrc: images/header/background.jpg
+  - type: text
+    height: 200
     paddingX: 50
     paddingY: 0
-    spaceBetweenTitleSubtitle: 20
-    subtitle:
-    - header subtitle1
-    subtitleFontSize: 16
+    align: center
     title:
-    - header title1
+      - The Conservation Generalist
+    subtitle:
+      - A blog about conservation
+    titleColor: # #123456, red
+    titleShadow: false
     titleFontSize: 44
-  - align: center
-    imagePosition: center
-    imageRepeat: no-repeat
-    imageSize: cover
-    imageSrc: images/header/background.jpg
+    subtitleColor: # #123456, red
+    subtitleCursive: false
+    subtitleFontSize: 16
+    spaceBetweenTitleSubtitle: 20
+  
+  - type: img
+    imageSrc: images/header/background.jpg # your image file path: root/static/images/header/background.jpg
+    imageSize: cover # auto|length|cover|contain|initial|inherit
+    imageRepeat: no-repeat # repeat|repeat-x|repeat-y|no-repeat|initial|inherit
+    imagePosition: center # x% y%| xpos ypos| left top| center bottom| ...
+    height: 235
     paddingX: 50
     paddingY: 0
-    spaceBetweenTitleSubtitle: 20
-    subtitle:
-    - header subtitle2
-    subtitleFontSize: 16
+    align: center
     title:
-    - header title2
-    titleFontSize: 44
-  - align: right
-    imagePosition: center
-    imageRepeat: no-repeat
-    imageSize: cover
-    imageSrc: images/header/background.jpg
-    paddingX: 50
-    paddingY: 0
-    spaceBetweenTitleSubtitle: 20
+      -
     subtitle:
-    - header subtitle3
-    subtitleFontSize: 16
-    title:
-    - header title3
+      -
+    titleColor:
+    titleShadow: false
     titleFontSize: 44
-  type: slide
+    subtitleColor:
+    subtitleCursive: false
+    subtitleFontSize: 16
+    spaceBetweenTitleSubtitle: 20
+
+  - type: slide
+    height: 235
+    options:
+        startSlide: 0
+        auto: 5000 # auto slide delay 5000ms(5sec)
+        draggable: true # slide draggable
+        autoRestart: true # restart after drag finished
+        continuous: true # last to first
+        disableScroll: true
+        stopPropagation: true
+    slide:
+      - paddingX: 50
+        paddingY: 0
+        align: left
+        imageSrc: images/header/background.jpg
+        imageSize: cover
+        imageRepeat: no-repeat
+        imagePosition: center
+        title:
+          - header title1
+        subtitle:
+          - header subtitle1
+        titleFontSize: 44
+        subtitleFontSize: 16
+        spaceBetweenTitleSubtitle: 20
+
+      - paddingX: 50
+        paddingY: 0
+        align: center
+        imageSrc: images/header/background.jpg
+        imageSize: cover
+        imageRepeat: no-repeat
+        imagePosition: center
+        title:
+          - header title2
+        subtitle:
+          - header subtitle2
+        titleFontSize: 44
+        subtitleFontSize: 16
+        spaceBetweenTitleSubtitle: 20
+
+      - paddingX: 50
+        paddingY: 0
+        align: right
+        imageSrc: images/header/background.jpg
+        imageSize: cover
+        imageRepeat: no-repeat
+        imagePosition: center
+        title:
+          - header title3
+        subtitle:
+          - header subtitle3
+        titleFontSize: 44
+        subtitleFontSize: 16
+        spaceBetweenTitleSubtitle: 20
 ---
